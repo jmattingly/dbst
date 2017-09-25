@@ -3,7 +3,6 @@
 #' This dataset was sourced from the UCI Machine Learning Repository
 #' \url{http://archive.ics.uci.edu/ml/datasets/Credit+Approval}. It contains
 #' meaningless variable names and values to protect confidentiality.
-#' The variables are as follows:
 #'
 #' @docType data
 #'
@@ -32,4 +31,5 @@
 #' @keywords datasets
 #'
 #' @source \href{http://archive.ics.uci.edu/ml/datasets/Credit+Approval}{Credit Approval Data Set}
+#'
 "credit"

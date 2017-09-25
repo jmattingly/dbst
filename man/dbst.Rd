@@ -8,4 +8,5 @@
 \description{
 The dbst package contains every data set used throughout the course:
   credit - The CreditApproval dataset.
+  cars   - The Cars dataset.
 }
