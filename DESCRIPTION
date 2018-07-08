@@ -1,6 +1,6 @@
 Package: dbst
 Title: Function and Data Set Collection for UMUC DBST 667
-Version: 0.4.0
+Version: 0.4.2
 Authors@R: person("John", "Mattingly", email = "john.mattingly@umuc.edu", role = c("aut", "cre"))
 Description: This package contains all data packages required for the weekly laboratory assignments in DBST 667. Additionally, certain functions are provided to ease the learning curve using R to enable student focus on data mining concepts and applications.
 Depends: R (>= 3.3.0)
